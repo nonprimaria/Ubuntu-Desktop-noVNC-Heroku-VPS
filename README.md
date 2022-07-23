@@ -4,11 +4,11 @@
 
 Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
 
-![1](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS/blob/main/vncimgs/Screenshot_20210519-094834.jpg)
+![1](https://github.com/nonprimaria/Ubuntu-Desktop-noVNC-Heroku-VPS/blob/main/vncimgs/Screenshot_20210519-094834.jpg)
 
-![2](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS/blob/main/vncimgs/Screenshot_20210519_104452_com.brave.browser_nightly.jpg)
+![2](https://github.com/nonprimaria/Ubuntu-Desktop-noVNC-Heroku-VPS/blob/main/vncimgs/Screenshot_20210519_104452_com.brave.browser_nightly.jpg)
 
-![3](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS/blob/main/vncimgs/Screenshot_20210519-094825.jpg)
+![3](https://github.com/nonprimaria/Ubuntu-Desktop-noVNC-Heroku-VPS/blob/main/vncimgs/Screenshot_20210519-094825.jpg)
 
 ## What's New
 * Modern novnc.
